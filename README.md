@@ -1,11 +1,55 @@
-<h1 align="center">Hello world I'm'm Guillaume Duchesne</h1>
-<h3 align="center">Passionate About Cybersecurity and IoT | From Belgium, Building a Safer Connected World</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Giphy GIF" width="500px" />
+</div>
 
-- 🔭 I’m currently working on **my personal website**
+<h1 align="center">Hello world I'm Guillaume Duchesne</h1>
+<h3 align="center">Passionate About Cybersecurity and IoT | From Belgium 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag-map_of_Belgium.svg/731px-Flag-map_of_Belgium.svg.png" alt="Belgium Flag" width="40px" /> , Building a Safer Connected World
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🌟 About Me
+- 🎓 **Currently Learning:** Bachelor in IT (Networks and Telecommunications with a Security option).
+- 🚀 **Passionate About:** Cybersecurity, IoT, and Networking.
+- 🔭 **Working On:** My personal website (coming soon!).
+- 🌱 **Looking to Collaborate On:** Cybersecurity and IoT-related projects.
+- 🤝 **Looking for Help With:** Improving my skills in advanced IoT security.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📫 How to Reach Me
+- 📧 **Email:** [duchesne.guil@gmail.com](mailto:duchesne.guil@gmail.com)
+- 🌐 **LinkedIn:** [Guillaume Duchesne](https://www.linkedin.com/in/guillaume-duchesne-b894942b6/)
+
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" width="48" />
+  <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="48" />
+  <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" alt="Blockchain" />
+</div>
+
+## 🧑‍💻 TryHackMe
+<div align="center">
+  <a href="https://tryhackme.com/p/ZaFiR" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ZaFiR.png" alt="Badge Tryhackme" />
+  </a>
+  <p>Explore my <a href="https://tryhackme.com/p/ZaFiR" target="_blank">TryHackMe profile</a> and track my progress in cybersecurity challenges!</p>
+</div>
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zafirr-cyber&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafirr-cyber&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
