@@ -42,9 +42,9 @@
 ## 🧑‍💻 TryHackMe
 <div align="center">
   <a href="https://tryhackme.com/p/ZaFiR" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ZaFiR.png" alt="Badge Tryhackme" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ASIM.png" alt="Your Image Badge" />
   </a>
-  <p>Explore my <a href="https://tryhackme.com/p/ZaFiR" target="_blank">TryHackMe profile</a> and track my progress in cybersecurity challenges!</p>
+  <p>Explore my <a href="https://tryhackme.com/p/ASIM" target="_blank">TryHackMe profile</a> and track my progress in cybersecurity challenges!</p>
 </div>
 
 ## 📈 GitHub Stats
