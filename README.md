@@ -37,6 +37,10 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="48" />
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="48" />
   <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" alt="Blockchain" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
 </div>
 
 ## 🧑‍💻 TryHackMe
