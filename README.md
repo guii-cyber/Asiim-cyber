@@ -62,25 +62,25 @@ Explore my portfolio and projects → **[guillaumecyber.be](https://guillaumecyb
 
 ## Featured Projects
 
-### **[Diploma Verification Platform](https://github.com/guii-cyber/diploma-verification)**
+### **[Diploma Verification Platform](https://github.com/guii-cyber/Diploma-Verification-Platform)**
 **Technology Stack:** Next.js, XRPL Blockchain, DID, MySQL  
 Decentralized diploma verification system using blockchain technology. Enables secure storage and verification of academic credentials through XRPL and Decentralized Identifiers.
 
-### **[Hospital Infrastructure Simulation - Rehabilitation Service](#)**
+### **[Hospital Infrastructure Simulation - Rehabilitation Service](https://github.com/guii-cyber/Projet_interdisciplinaire)**
 **Technology Stack:** Windows Server, Linux, PHP, Apache/Nginx, Active Directory  
 **Team Project - HEH Interdisciplinary**  
 Complete network infrastructure design including VLAN configuration, DNS/DHCP services, and patient management systems with security-first architecture.
 
-### **[Linux Server Architecture Project](https://github.com/AnthonyCodeDev/HEH-2025-ProjetLinux)**
+### **[Linux Server Architecture Project](https://github.com/guii-cyber/HEH-2025-ProjetLinux)**
 **Technology Stack:** Ubuntu Server, AWS EC2, Bash Automation  
 **Academic Project - HEH 2025**  
 Automated deployment of virtualized Linux infrastructure on AWS with comprehensive service configuration, security hardening, and monitoring.
 
-### **[La Conquête Pirate - 2D Adventure Game](#)**
+### **[La Conquête Pirate - 2D Adventure Game](https://github.com/guii-cyber/HEH-2025-Hackathon-LaConquetePirate)**
 **Hackathon Project - HEH Mons 2024**  
 Trine-inspired 2D action-adventure game featuring multi-character mechanics and strategic puzzle-solving elements.
 
-### **[Project Management System](https://github.com/Urkral/GDP_gr3)**
+### **[Project Management System](https://github.com/guii-cyber/GDP_gr3)**
 **Technology Stack:** Python, GPIO Libraries  
 Collaborative task management solution with resource allocation, deadline tracking, and team communication features.
 
