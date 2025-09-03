@@ -67,7 +67,7 @@ Explore my portfolio and projects → **[guillaumecyber.be](https://guillaumecyb
 Decentralized diploma verification system using blockchain technology. Enables secure storage and verification of academic credentials through XRPL and Decentralized Identifiers.
 
 ### **[Hospital Infrastructure Simulation - Rehabilitation Service](https://github.com/guii-cyber/Projet_interdisciplinaire)**
-**Technology Stack:** Windows Server, Linux, PHP, Apache/Nginx, Active Directory  
+**Technology Stack:** Windows Server, Linux, PHP, Apache/Nginx, Active Directory, Python, Mysql, ... 
 **Team Project - HEH Interdisciplinary**  
 Complete network infrastructure design including VLAN configuration, DNS/DHCP services, and patient management systems with security-first architecture.
 
